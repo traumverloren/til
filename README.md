@@ -1,8 +1,7 @@
 # TIL
 
-> Today I Learned
+### Today I Learned: Tips from my adventures in coding.
 
-Tips from adventures in coding.
 ---
 
 ### Categories
@@ -16,8 +15,3 @@ Tips from adventures in coding.
 ### Git
 
 - [Basic workflow](git/basic-workflow.md)
-
-### Rails
-
-
-### Ruby
