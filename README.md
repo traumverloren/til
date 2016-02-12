@@ -15,3 +15,7 @@
 ### Git
 
 - [Basic workflow](git/basic-workflow.md)
+
+---
+
+###### Inspiration taken from this [terrific collection of TILs](https://github.com/jbranchaud/til)
