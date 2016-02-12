@@ -9,6 +9,7 @@
 * [Git](#git)
 * [Rails](#rails)
 * [Ruby](#ruby)
+* [Rbenv](#rbenv)
 
 ---
 
@@ -18,4 +19,9 @@
 
 ---
 
+### Rbenv
+
+- [Manage ruby versions](rbenv/manage_ruby_versions.md)
+
+---
 ###### Inspiration taken from this [terrific collection of TILs](https://github.com/jbranchaud/til)
