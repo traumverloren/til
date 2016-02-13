@@ -6,10 +6,17 @@
 
 ### Categories
 
+* [Setting up a mac](#setup)
 * [Git](#git)
 * [Rails](#rails)
 * [Ruby](#ruby)
 * [Rbenv](#rbenv)
+
+---
+
+### Setup
+
+- [How I setup a dev environment on a new mac](setup/basic-setup.md)
 
 ---
 
