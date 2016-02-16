@@ -8,6 +8,7 @@ Instead of specifying an element's padding-top, padding-right, padding-bottom, a
   your-element {
     padding: 10px 20px 10px 20px;
     margin: 10px 20px 10px 20px;
-  }```
+  }
+```
 
 These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific padding instructions.  This is called `Clockwise Notation` and works for both padding & margin.
