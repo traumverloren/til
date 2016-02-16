@@ -8,6 +8,7 @@
 
 * [Setting up a mac](#setup)
 * [Git](#git)
+* [CSS](#css)
 * [Rails](#rails)
 * [Ruby](#ruby)
 * [Rbenv](#rbenv)
@@ -26,6 +27,11 @@
 
 ---
 
+### CSS
+
+- [Margins & Padding](css/margins-padding.md)
+
+---
 ### Rbenv
 
 - [Manage ruby versions](rbenv/manage_ruby_versions.md)
