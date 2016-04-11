@@ -32,6 +32,12 @@
 - [Margins & Padding](css/margins-padding.md)
 
 ---
+### Rails
+
+- [How to use cURL to test a Rails Route](rails/curl-calls.md)
+
+---
+
 ### Rbenv
 
 - [Manage ruby versions](rbenv/manage_ruby_versions.md)
