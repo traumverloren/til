@@ -17,7 +17,8 @@
 
 ### Setup
 
-- [How I setup a dev environment on a new mac](setup/basic-setup.md)
+- [How I setup a dev environment on a new mac](setup/mac-setup.md)
+- [How to setup Docker VM & container](setup/docker-setup.md)
 
 ---
 
