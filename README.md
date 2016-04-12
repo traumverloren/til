@@ -6,7 +6,7 @@
 
 ### Categories
 
-* [Setting up a mac](#setup)
+* [Setting up stuffs](#setup)
 * [Git](#git)
 * [CSS](#css)
 * [Rails](#rails)
