@@ -7,7 +7,7 @@
 ##### 3. Build the container:
   - `$ docker-compose up` (or `$ docker-compose build` first if that barfs)
   - More info: [docker-compose up](https://docs.docker.com/compose/reference/up/)
-  
+
   > Should only have to do this whenever starting up the VM or dockerfile has changed.
 
 #### 4. Probably will have to set the docker port and host port to be the same so can boot up and access it locally:
@@ -28,5 +28,6 @@
   - Turn off the "default" machine
   - Run Docker Quickstart again!
 
-#### 7. Other Notes:
+#### 7. Other Tips:
   - You can build & run 2 containers at the same time on the same VM.  ...But they have to have different port numbers!
+  - To run `rails console`: ```$ docker-compose run web rails console```
