@@ -1,11 +1,12 @@
-## Setup Docker VM + Container (for pre-existing projects with docker file already):
+# Setup Docker VM + Container (for pre-existing projects with docker file already):
 
-#### 1. Make sure you have [Docker toolbox](https://docs.docker.com/mac/step_one/) installed.
+##### 1. Make sure you have [Docker toolbox](https://docs.docker.com/mac/step_one/) installed.
 
 #### 2. Open Docker Quickstart Terminal in launchpad!
 
 #### 3. Build the container:
-  - `$ docker-compose up` (or `$ docker-compose build` first if that barfs)
+  - `$ docker-compose build`
+  - `$ docker-compose up`
   - More info: [docker-compose up](https://docs.docker.com/compose/reference/up/)
 
   > Should only have to do this whenever starting up the VM or dockerfile has changed.
@@ -28,6 +29,11 @@
   - Turn off the "default" machine
   - Run Docker Quickstart again!
 
-#### 7. Other Tips:
-  - You can build & run 2 containers at the same time on the same VM.  ...But they have to have different port numbers!
+#### 7. After all this is setup, this is all that's needed to start this project:
+  - Launch Docker Quickstart
+  - `$ eval $(docker-machine env default)`
+  - docker-compose up
+
+#### 8. Other tips:
   - To run `rails console`: ```$ docker-compose run web rails console```
+  - To see all the containers that are currently running: ```$ docker ps```
