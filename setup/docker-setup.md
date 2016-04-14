@@ -32,7 +32,7 @@
 #### 7. After all this is setup, this is all that's needed to start this project:
   - Launch Docker Quickstart
   - `$ eval $(docker-machine env default)`
-  - docker-compose up
+  - `$ docker-compose up`
 
 #### 8. Other tips:
   - To run `rails console`: ```$ docker-compose run web rails console```
