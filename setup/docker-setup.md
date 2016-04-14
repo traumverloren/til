@@ -1,10 +1,10 @@
-# Setup Docker VM + Container (for pre-existing projects with docker file already):
+## Setup Docker VM + Container (for pre-existing projects with docker file already):
 
-##### 1. Make sure you have [Docker toolbox](https://docs.docker.com/mac/step_one/) installed.
+#### 1. Make sure you have [Docker toolbox](https://docs.docker.com/mac/step_one/) installed.
 
-##### 2. Open Docker Quickstart Terminal in launchpad!
+#### 2. Open Docker Quickstart Terminal in launchpad!
 
-##### 3. Build the container:
+#### 3. Build the container:
   - `$ docker-compose up` (or `$ docker-compose build` first if that barfs)
   - More info: [docker-compose up](https://docs.docker.com/compose/reference/up/)
 
