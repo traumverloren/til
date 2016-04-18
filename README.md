@@ -12,6 +12,7 @@
 * [Rails](#rails)
 * [Ruby](#ruby)
 * [Rbenv](#rbenv)
+* [Regex](#regex)
 
 ---
 
