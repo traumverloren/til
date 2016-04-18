@@ -44,4 +44,9 @@
 - [Manage ruby versions](rbenv/manage_ruby_versions.md)
 
 ---
+### Regex
+
+- [Regex tips](regex/regex-tips.md)
+
+---
 ###### Inspiration taken from this [terrific collection of TILs](https://github.com/jbranchaud/til)
