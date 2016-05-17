@@ -9,14 +9,14 @@
   > It is VERY important to note that a collection can have AT MOST 1 TEXT INDEX! More [info](https://docs.mongodb.com/manual/core/index-text/#create-text-index).
 
 
-- Full-text search for entire collection would like something like this:
+- Full-text *wildcard* search for entire collection would like something like this:
 
   In the model (eg purchase.rb) file:
   ```
   index({"$**"=>"text"},{name: 'TextIndex'})
   ```
 
-  Then to use in the the controller, (eg purchases_controller.rb) file:
+  Then the controller could look like this... (eg purchases_controller.rb):
   ```
   Purchase.where({"$text" => {"$search" => search_term}})
   ```
