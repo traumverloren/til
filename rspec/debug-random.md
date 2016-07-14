@@ -5,7 +5,7 @@
 
 #### Debug Process:
 - Run tests randomized: `bin/rspec --order rand`
-- Run tests with a seed specified from the randomized test above PLUS with `--bisect` option: `bin/rspec --seed <SEED NUMBER> --bisect`
+- Run tests with a seed specified from the randomized test above PLUS with `--bisect` option: ```bin/rspec --seed <SEED NUMBER> --bisect```
 - This will take a while depending on # of tests... (~1400 took ~30 min)
 - RSpec finds the minimal set of examples (probably 2) that reproduce the failure.
 - Debug and fix the issue.

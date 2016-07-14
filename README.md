@@ -11,6 +11,7 @@
 * [CSS](#css)
 * [MongoDB](#mongodb)
 * [Rails](#rails)
+* [RSpec](#rspec)
 * [Rbenv](#rbenv)
 * [Regex](#regex)
 * [Ruby](#ruby)
@@ -41,6 +42,7 @@
 - [Indexing](mongodb/indexing.md)
 
 ---
+
 ### Rails
 
 - [How to use cURL to test a Rails Route](rails/curl-calls.md)
