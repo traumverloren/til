@@ -47,6 +47,12 @@
 
 ---
 
+### RSpec
+
+- [How to debug random spec failures](rspec/debug-random.md)
+
+---
+
 ### Rbenv
 
 - [Manage ruby versions](rbenv/manage_ruby_versions.md)
