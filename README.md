@@ -46,6 +46,7 @@
 ### Rails
 
 - [How to use cURL to test a Rails Route](rails/curl-calls.md)
+- [How to use localtunnel to share local dev machine](rails/localtunnel.md)
 
 ---
 
