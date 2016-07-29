@@ -1,6 +1,6 @@
 # Testing Hidden Elements, aka I Need to test a modal (hidden element) with Rspec/Capybara
 
-To confirm that a modal partial in the view (like below)
+To confirm that a modal partial in the view (like below) is accessible to testing...
 
 ```
 - if @unverified_thing
@@ -14,7 +14,7 @@ To confirm that a modal partial in the view (like below)
       });
 ```
 
-is accessible to testing, in your spec, you gotta let Capybara know to not ignore hidden elements:
+...in your spec, you gotta let Capybara know to not ignore hidden elements:
 
 ```ruby
 before do
