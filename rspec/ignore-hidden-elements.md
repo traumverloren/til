@@ -1,4 +1,5 @@
-# Testing Hidden Elements, aka I Need to test a modal (hidden element) with Rspec/Capybara
+# Testing Hidden Elements:
+##### (aka I need to test a modal (hidden element) with Rspec/Capybara):
 
 To confirm that a modal partial in the view (like below) is accessible to testing...
 
