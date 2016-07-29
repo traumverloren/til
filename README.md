@@ -53,6 +53,7 @@
 ### RSpec
 
 - [How to debug random spec failures](rspec/debug-random.md)
+- [How to test 'hidden' Bootstrap modals in Capybara](rspec/ignore-hidden-elements.md)
 
 ---
 
